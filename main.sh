@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo "Start"
-sleep 60
-echo "Stop"
+echo "Hello, World"
